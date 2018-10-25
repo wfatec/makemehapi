@@ -1,0 +1,26 @@
+{
+  "name": "makemehapi",
+  "version": "1.0.0",
+  "description": "Learn all about hapi through a series of self-guided challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wfatec/makemehapi.git"
+  },
+  "keywords": [
+    "hapi",
+    "exercise"
+  ],
+  "author": "wfatec",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wfatec/makemehapi/issues"
+  },
+  "homepage": "https://github.com/wfatec/makemehapi#readme",
+  "dependencies": {
+    "hapi": "^17.6.0"
+  }
+}
