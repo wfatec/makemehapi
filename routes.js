@@ -12,9 +12,9 @@ const init = async () => {
         // 创建一个简单的 hello hapi 接口
         {
             method: 'GET',
-            path: '/',
+            path: '/{name}',
             handler: (request, h) => {
-                return 'Hello hapi';
+                return `Hello ${request.params.name}`;
             }
         }
     ]);
