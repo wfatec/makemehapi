@@ -21,7 +21,9 @@
   },
   "homepage": "https://github.com/wfatec/makemehapi#readme",
   "dependencies": {
+    "handlebars": "^4.0.12",
     "hapi": "^17.6.0",
-    "inert": "^5.1.0"
+    "inert": "^5.1.0",
+    "vision": "^5.4.0"
   }
 }
