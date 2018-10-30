@@ -25,6 +25,7 @@
     "handlebars": "^4.0.12",
     "hapi": "^17.6.0",
     "inert": "^5.1.0",
+    "rot13-transform": "^1.0.0",
     "vision": "^5.4.0"
   }
 }
