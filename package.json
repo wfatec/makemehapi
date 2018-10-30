@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/wfatec/makemehapi#readme",
   "dependencies": {
+    "boom": "^7.2.0",
     "h2o2": "^8.1.2",
     "handlebars": "^4.0.12",
     "hapi": "^17.6.0",
