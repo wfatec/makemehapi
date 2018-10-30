@@ -25,6 +25,7 @@
     "h2o2": "^8.1.2",
     "handlebars": "^4.0.12",
     "hapi": "^17.6.0",
+    "hapi-auth-basic": "^5.0.0",
     "inert": "^5.1.0",
     "joi": "^14.0.2",
     "rot13-transform": "^1.0.0",
